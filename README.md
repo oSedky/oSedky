@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Omar Sedky
 
-<!--
-**oSedky/oSedky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Certified Solutions Architect and Microsoft Intune Technical Lead — currently building real-world AWS projects to power my career transition into cloud architecture.
 
-Here are some ideas to get you started:
+🚀 **What I'm working on:**
+- 🌐 [My Portfolio Website](https://sedky.net)
+- 🛠️ Hands-on AWS projects (Lambda, EC2, S3, SES, Polly, SageMaker, etc.)
+- 🧱 Designing highly available, scalable AWS solutions
+- ⚙️ CI/CD automation with GitHub Actions and AWS CodePipeline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me: [LinkedIn](https://linkedin.com/in/omarsedky) | [Credly](https://www.credly.com/users/sedky)
+
+---
+
+🧰 **Technologies I Use**
+
+AWS (EC2, Lambda, VPC, S3, Route 53) • GitHub Actions • Linux • Microsoft Intune • PowerShell • HTML/CSS
+
+---
+
+📌 **This GitHub is part of my career transformation project.**
