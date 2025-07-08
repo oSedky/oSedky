@@ -13,7 +13,7 @@ I’m currently building and testing cloud solutions in the following areas:
 - CI/CD pipelines (GitHub Actions, CodePipeline)  
 - Cloud integrations simulating enterprise use cases  
 
-Each project is focused on service integration, operational reliability, and architectural best practices — not isolated feature demos.
+Each project is focused on service integration, operational reliability, and architectural best practices.
 
 ---
 
@@ -23,9 +23,9 @@ See project walkthroughs, architecture breakdowns, and live UI previews at
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack`
 
-`AWS` • `Microsoft 365` • `Intune` • `Azure AD` • `PowerShell` • `Linux` • `CI/CD` • `GitHub Actions` • `HTML/CSS`
+AWS` • `Microsoft 365` • `Intune` • `Azure AD` • `PowerShell` • `Linux` • `CI/CD` • `GitHub Actions` • `HTML/CSS`
 
 ---
 
@@ -37,4 +37,4 @@ See project walkthroughs, architecture breakdowns, and live UI previews at
 
 ---
 
-📌 This GitHub is a **build space** — where I test ideas, design AWS architectures, and document practical solutions as I go.
+📌 This GitHub is a **build space** where I test ideas, design AWS architectures, and document practical solutions as I go.
