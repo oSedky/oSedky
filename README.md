@@ -1,21 +1,40 @@
 # 👋 Hi, I'm Omar Sedky
 
-AWS Certified Solutions Architect and Microsoft Intune Technical Lead — currently building real-world AWS projects to power my career transition into cloud architecture.
-
-🚀 **What I'm working on:**
-- 🌐 [My Portfolio Website](https://sedky.net)
-- 🛠️ Hands-on AWS projects (Lambda, EC2, S3, SES, Polly, SageMaker, etc.)
-- 🧱 Designing highly available, scalable AWS solutions
-- ⚙️ CI/CD automation with GitHub Actions and AWS CodePipeline
-
-📫 Reach me: [LinkedIn](https://linkedin.com/in/omarsedky) | [Credly](https://www.credly.com/users/sedky)
+AWS Certified Solutions Architect (SAA-C03) with a background in enterprise endpoint management (Microsoft Intune, M365) and a hands-on approach to learning through applied projects. I'm actively designing and documenting AWS solutions that reflect realistic business and technical scenarios.
 
 ---
 
-🧰 **Technologies I Use**
+## 🧩 Projects in Progress
 
-AWS (EC2, Lambda, VPC, S3, Route 53) • GitHub Actions • Linux • Microsoft Intune • PowerShell • HTML/CSS
+I’m currently building and testing cloud solutions in the following areas:
+
+- Serverless automation (Lambda, SES, S3, Polly)  
+- Scalable infrastructure (EC2, RDS, ALB, VPC)  
+- CI/CD pipelines (GitHub Actions, CodePipeline)  
+- Cloud integrations simulating enterprise use cases  
+
+Each project is focused on service integration, operational reliability, and architectural best practices — not isolated feature demos.
 
 ---
 
-📌 **This GitHub is part of my career transformation project.**
+## 🌐 Portfolio Website  
+See project walkthroughs, architecture breakdowns, and live UI previews at  
+➡️ [sedky.net](https://sedky.net)
+
+---
+
+## 🧰 Tech Stack
+
+`AWS` • `Microsoft 365` • `Intune` • `Azure AD` • `PowerShell` • `Linux` • `CI/CD` • `GitHub Actions` • `HTML/CSS`
+
+---
+
+## 🔗 Connect
+
+- [LinkedIn](https://linkedin.com/in/omarsedky)  
+- [Credly](https://www.credly.com/users/omar-sedky)  
+- 📫 Email: omar@sedky.net
+
+---
+
+📌 This GitHub is a **build space** — where I test ideas, design AWS architectures, and document practical solutions as I go.
