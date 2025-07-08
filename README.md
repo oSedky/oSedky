@@ -31,9 +31,9 @@ AWS` • `Microsoft 365` • `Intune` • `Azure AD` • `PowerShell` • `Linux
 
 ## 🔗 Connect
 
-- [LinkedIn](https://linkedin.com/in/omarsedky)  
-- [Credly](https://www.credly.com/users/omar-sedky)  
-- 📫 Email: omar@sedky.net
+- 👔 [LinkedIn – Omar Sedky](https://linkedin.com/in/omarsedky)
+- 🏅 [Credly Certifications](https://www.credly.com/users/omar-sedky)
+- 📫 [omar@sedky.net](mailto:omar@sedky.net)
 
 ---
 
